@@ -1,4 +1,5 @@
 const images = ['https://fonts.gstatic.com/s/e/notoemoji/latest/1f970/512.gif', 'https://fonts.gstatic.com/s/e/notoemoji/latest/263a_fe0f/512.gif', 'https://fonts.gstatic.com/s/e/notoemoji/latest/1f60d/512.gif', 
+'      https://fonts.gstatic.com/s/e/notoemoji/latest/1f61d/512.gif',
 'https://fonts.gstatic.com/s/e/notoemoji/latest/1f61c/512.gif',
 'https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f_200d_1f525/512.gif',
 'https://fonts.gstatic.com/s/e/notoemoji/latest/1f496/512.gif',
