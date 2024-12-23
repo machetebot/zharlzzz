@@ -25,6 +25,6 @@ img.height = "90";
 img.width = "90";
 img.style.position = "fixed";
 img.style.right = "170px";
-img.style.bottom = "44px";
+img.style.bottom = "42px";
 img.style.zIndex = "-1x";
 document.body.appendChild(img); 
