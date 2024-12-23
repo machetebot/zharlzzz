@@ -14,8 +14,8 @@ const images = ['https://fonts.gstatic.com/s/e/notoemoji/latest/1f970/512.gif',
 'https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif',
 'https://fonts.gstatic.com/s/e/notoemoji/latest/1f495/512.gif',
 'https://fonts.gstatic.com/s/e/notoemoji/latest/1f644/512.gif',
-'https://fonts.gstatic.com/s/e/notoemoji/latest/1fae7/512.gif',
-'https://fonts.gstatic.com/s/e/notoemoji/latest/1f618/512.gif'];
+'https://file.garden/Zzg7g9nzzkEeNTar/bubbles.gif',
+'https://file.garden/Zzg7g9nzzkEeNTar/kiss.gif'];
 const rand = Math.floor(Math.random()*images.length);
 const src = images[rand];
 console.log(rand, src);
