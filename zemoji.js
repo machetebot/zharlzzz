@@ -1,6 +1,6 @@
 const images = ['https://cdn.jsdelivr.net/gh/machetebot/zharlzzz@main/gif/inlab.gif', 
 'https://cdn.jsdelivr.net/gh/machetebot/zharlzzz@main/gif/kilig.gif', 
-'https://github.com/machetebot/zharlzzz/blob/main/gif/wowinlab.gif', 
+'https://cdn.jsdelivr.net/gh/machetebot/zharlzzz@main/gif/wowinlab.gif', 
 'https://cdn.jsdelivr.net/gh/machetebot/zharlzzz@main/gif/bleeh.gif',
 'https://file.garden/Zzg7g9nzzkEeNTar/bleehhhh.gif',
 'https://file.garden/Zzg7g9nzzkEeNTar/flameheart.gif',
